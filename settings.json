@@ -1,13 +1,13 @@
 {
-  "name": "Aternosbot24/7",
+  "name": "AternosBilly",
   "bot-account": {
-    "username": "bot77",
+    "username": "AternosBilly",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "ELandsOfficial.aternos.me",
-    "port": 42025,
+    "ip": "ELandsOfficial-IXTI.aternos.me",
+    "port": 23343,
     "version": "",
     "try-creative": false
   },
